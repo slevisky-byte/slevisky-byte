@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou a Sara</h1>
 
-<!--
-**slevisky-byte/slevisky-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong style="color:#FF69B4;">
+    Apaixonada por aprender e transformar dados em conhecimento.
+  </strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=24&center=true&vCenter=true&width=600&lines=Analista+de+Dados;Transformando+dados+em+insights;Sempre+aprendendo+algo+novo" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Sobre mim
+
+<p align="center">
+Analista de dados focada em gerar insights relevantes, apaixonada por tecnologia e em constante evolução.  
+Busco transformar dados em decisões inteligentes por meio de análise e visualização.
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+  <img alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
+
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+</p>
+
+---
+
+### 📊 Projetos em destaque
+
+<p align="center">
+Em breve você encontrará aqui meus principais projetos de análise de dados, explorando diferentes ferramentas e técnicas.
+</p>
+
+---
+
+###  Em constante evolução
+
+<p align="center">
+Sempre aprendendo novas tecnologias, aprimorando habilidades e construindo soluções baseadas em dados.
+</p>
+
+---
+
+
