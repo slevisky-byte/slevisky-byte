@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong style="color:#FF69B4;">
-    Apaixonada por  e transformar dados em conhecimento.
+      Apaixonada por  e transformar dados em conhecimento.
   </strong>
 </p>
 
