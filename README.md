@@ -37,20 +37,6 @@ Busco transformar dados em decisões inteligentes por meio de análise e visuali
 
 ---
 
-### 📊 Projetos em destaque
 
-<p align="center">
-Em breve você encontrará aqui meus principais projetos de análise de dados, explorando diferentes ferramentas e técnicas.
-</p>
-
----
-
-###  Em constante evolução
-
-<p align="center">
-Sempre aprendendo novas tecnologias, aprimorando habilidades e construindo soluções baseadas em dados.
-</p>
-
----
 
 
